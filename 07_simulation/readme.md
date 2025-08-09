@@ -20,6 +20,8 @@ open-source Python framework that interfaces with PyBullet and Blender to genera
 
 ## Isaac Sim
 * https://docs.isaacsim.omniverse.nvidia.com/latest/index.html
+* docu site : https://docs.isaacsim.omniverse.nvidia.com/5.0.0/index.html
+
 
 ## newton
 

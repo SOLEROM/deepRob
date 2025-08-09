@@ -16,3 +16,4 @@
 * [blog list](./blogList.md)
 * [read articles](./arxivs.md)
 * [sota](./sota.md)
+* [use cases](./useCases.md)
